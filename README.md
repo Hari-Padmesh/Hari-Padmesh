@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hari-Padmesh
+- 👋 Hi, I’m @Hari Padmesh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on fun projects
