@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-Padmesh&theme=darkhub&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Achievements" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hari-Padmesh&theme=darkhub&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers" alt="Achievements" />
 
 ---
 
