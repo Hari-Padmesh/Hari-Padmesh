@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Doe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Hari Padmesh</h1>
+<h3 align="center">A passionate tech ethusiast</h3>
 
 - 🔭 I’m currently working on **Web projects**
 
