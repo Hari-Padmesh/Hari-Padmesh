@@ -44,7 +44,7 @@
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/hari-padmesh-k-52188631a](https://www.linkedin.com/in/hari-padmesh-k-52188631a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuxBrAClsQvaQZdtJqM1AEg%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hari-padmesh/)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Hari-Padmesh&color=blue)
