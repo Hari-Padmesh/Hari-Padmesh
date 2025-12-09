@@ -24,16 +24,13 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hari-Padmesh&theme=darkhub&no-bg=true&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers" alt="Achievements" />
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Padmesh&show_icons=true&theme=radical" alt="John's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hari-Padmesh&show_icons=true&theme=radical" alt="Hari's GitHub Stats"/>
 </p>
 
 <p align="center">
